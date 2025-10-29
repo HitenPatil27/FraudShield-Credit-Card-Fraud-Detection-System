@@ -23,7 +23,7 @@ This repository contains the deliverables for **Capstone Project Milestone 2 (Du
 ```
 FraudShield-Credit-Card-Fraud-Detection-System/
 ├─ notebook/
-│ └─ FraudShield_training.ipynb
+│ └─ CreditCard_Fraud_Detection_Training.ipynb
 ├─ model/
 │ └─ best_fraud_model.pkl
 └─ README.md
