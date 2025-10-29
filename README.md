@@ -4,14 +4,14 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 This project focuses on detecting fraudulent transactions within highly imbalanced credit card data.  
 It uses supervised learning and anomaly detection techniques to classify transactions as **fraudulent** or **legitimate**.  
 The final trained model achieves high recall while maintaining precision to ensure minimal false alerts.
 
 ---
 
-## 📅 Milestone 2 — Submission
+## Milestone 2 — Submission
 This repository contains the deliverables for **Capstone Project Milestone 2 (Due: 29th October)**:
 
 - ✅ **Training Dataset:** `creditcard.csv` (Kaggle — ULB Dataset)
@@ -26,15 +26,12 @@ FraudShield-Credit-Card-Fraud-Detection-System/
 │ └─ FraudShield_training.ipynb
 ├─ model/
 │ └─ best_fraud_model.pkl
-├─ data/
-│ └─ creditcard.csv (optional, if uploaded)
-├─ requirements.txt
 └─ README.md
 ```
 
 ---
 
-## 🧠 Dataset Details
+## Dataset Details
 - **Source:** [Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
 - **Samples:** 284,807  
 - **Fraud Cases:** 492 (~0.17%)  
@@ -43,15 +40,15 @@ FraudShield-Credit-Card-Fraud-Detection-System/
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
-### 🧩 Option 1 — Google Colab (Recommended)
+### Option 1 — Google Colab (Recommended)
 1. Open the notebook: `notebook/FraudShield_training.ipynb`
 2. Upload `creditcard.csv` (or mount from Google Drive)
 3. Run all cells sequentially  
 4. Model and metrics will be generated and saved automatically
 
-### 💻 Option 2 — Local Setup
+### Option 2 — Local Setup
 ```bash
 git clone https://github.com/<your-username>/FraudShield-Credit-Card-Fraud-Detection-System.git
 cd FraudShield-Credit-Card-Fraud-Detection-System
@@ -61,7 +58,7 @@ jupyter notebook notebook/FraudShield_training.ipynb
 
 ---
 
-## 📊 Models & Techniques Used
+## Models & Techniques Used
 
 - **Data Preprocessing:** StandardScaler
 - **Balancing:** SMOTE (Synthetic Minority Oversampling Technique)
@@ -69,7 +66,7 @@ jupyter notebook notebook/FraudShield_training.ipynb
 - **Evaluation Metrics:** Precision, Recall, F1-score, ROC-AUC
 - **Model Saving:** .pkl format using joblib
 
-## 🧾 Results
+## Results
 
 | Model             | F1-Score | ROC-AUC |
 |-------------------|----------|---------|
@@ -80,7 +77,7 @@ jupyter notebook notebook/FraudShield_training.ipynb
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 - Hiten Patil  
 - Smit Shedge  
 - Vedant Patel  
