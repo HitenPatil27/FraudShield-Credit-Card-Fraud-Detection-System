@@ -85,9 +85,3 @@ jupyter notebook notebook/FraudShield_training.ipynb
 B.Tech — Computer Science & Engineering  
 Capstone Project (Deep Learning Subject)  
 Instructor: Chintan Shah
-
----
-
-## 🪪 License
-This repository is created for academic and educational purposes.  
-You may reuse the code with credit to the authors.
