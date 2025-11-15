@@ -16,13 +16,13 @@ The system includes a user-friendly **Streamlit application** for real-time frau
 ## Repository Structure
 ```
 FraudShield-Credit-Card-Fraud-Detection-System/
-├─ app/
-│ └─ streamlit_app.py
 ├─ notebook/
 │ └─ CreditCard_Fraud_Detection_Training.ipynb
 ├─ model/
-│ └─ best_fraud_model.pkl
-├─ requirements.txt
+│ ├─ best_fraud_model.pkl
+│ ├─ scaler.pkl
+│ └─ threshold_info.json
+├─ app.py
 └─ README.md
 ```
 
