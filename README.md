@@ -44,19 +44,15 @@ FraudShield provides an interactive web application built with Streamlit for sea
 
 ## Application Preview
 🟢 Below, insert the Streamlit application screenshots:
+<img width="1655" height="945" alt="1" src="https://github.com/user-attachments/assets/5683c063-98bb-4263-a371-b3ab0b502b15" />
+Dashboard
 
-![Upload CSV screen](screenshots/upload_csv.png)  
-👉 Upload CSV screen
+<img width="1661" height="945" alt="2" src="https://github.com/user-attachments/assets/4211abe3-30f4-4399-92f7-56d0c223ddab" />
+<img width="1659" height="939" alt="3" src="https://github.com/user-attachments/assets/3183278c-8b53-49ee-9f97-5038e7f43893" />
+Uploading CSV
 
-![Prediction summary (Fraud / Normal count)](screenshots/prediction_summary.png)  
-👉 Prediction summary (Fraud / Normal count)
-
-![Confusion matrix & classification report](screenshots/confusion_matrix.png)  
-👉 Confusion matrix & classification report
-
-![Download results page](screenshots/download_results.png)  
-👉 Download results page
-
+<img width="1652" height="903" alt="4" src="https://github.com/user-attachments/assets/a70269e4-5345-4442-ae46-4c90da1db82f" />
+Output
 ---
 
 ## How to Run the Project
