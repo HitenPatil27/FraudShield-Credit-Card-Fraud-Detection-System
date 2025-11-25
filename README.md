@@ -28,7 +28,7 @@ The app also visualizes results with summary statistics, confusion matrices, and
 ```
 FraudShield-Credit-Card-Fraud-Detection-System/
 ├─ notebook/
-│ └─ CreditCard_Fraud_Detection_Training.ipynb
+│ ├─ CreditCard_Fraud_Detection_Training.ipynb
 | └─ CreditCard_Fraud_Detection_Training_with_DL.ipynb
 ├─ model/
 │ ├─ best_fraud_model.pkl
@@ -121,15 +121,3 @@ The DNN captures deeper non-linear patterns in the transaction data and provides
 | E-commerce     | Prevent fake purchases & chargebacks |
 | Payment Gateways | Monitor abnormal spending activity |
 
----
-
-## Project Team
-| Name       | Role                                      |
-|------------|-------------------------------------------|
-| Hiten Patil | Model training, deployment & documentation |
-| Smit Shedge | UI development & system integration       |
-| Vedant Patel| Data preprocessing & testing              |
-
-B.Tech — Computer Science & Engineering  
-Deep Learning Course Project  
-Instructor: Chintan Shah
