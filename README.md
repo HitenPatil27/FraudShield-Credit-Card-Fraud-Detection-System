@@ -33,8 +33,8 @@ FraudShield-Credit-Card-Fraud-Detection-System/
 ├─ model/
 │ ├─ best_fraud_model.pkl
 │ ├─ scaler.pkl
-│ └─ threshold_info.json
-│  └─ dnn_fraud_model.h5
+│ ├─threshold_info.json
+│ └─ dnn_fraud_model.h5
 ├─ app.py
 └─ README.md
 ```
